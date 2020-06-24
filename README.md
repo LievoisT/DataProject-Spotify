@@ -50,7 +50,9 @@
 ##### export SPOTIPY_CLIENT_ID=client_id_here
 ##### export SPOTIPY_CLIENT_SECRET=client_secret_here
 
-##### 4. Starte the Jupyter Notebook
+#### Jupyter NoteBook
+
+##### 4. Start the Jupyter Notebook
 
 
 
