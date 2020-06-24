@@ -2,7 +2,7 @@
 
 ##### Music is a word that can have different meanings for every person. Music means artists diversity, happiness, sadness, time to dance, time to get relax, etc. At the end of the story, most of the people love music, and that's the main motivation of this project.
 
-##### The main objective of this analysis was to analyze United States Artists Popularity, and for this, the following statements/questions were examined:
+##### The main objective of this analysis was to explore United States Artists Popularity, and for this, the following statements/questions were examined:
 
 ##### 1. Genre affect artists popularity?
 ##### 2. How Audio Features are relating with tracks popularity; and thus, artists popularity?
@@ -12,7 +12,7 @@
 
 The following charts represent a graphical explanation of the previous interrogates:
 
-![SpotifyAnalysis](output/FeatureVSPopularity_1.PNG)
+![SpotifyAnalysis](output/FeatureVSPopularity_1.png)
 
 
 
